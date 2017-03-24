@@ -59,7 +59,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 78468830,
-        "download_count": 5,
+        "download_count": 7,
         "created_at": "2017-03-17T10:16:42Z",
         "updated_at": "2017-03-17T10:24:13Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b01/OpenJDK_X64_Linux-jdk8u152-b01.tar.gz"
