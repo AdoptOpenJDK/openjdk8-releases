@@ -481,7 +481,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 5,
+        "download_count": 7,
         "created_at": "2017-03-28T09:26:09Z",
         "updated_at": "2017-03-28T09:26:09Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b01/OpenJDK8_x64_Mac_jdk8u152-b01.sha256.txt"
@@ -513,7 +513,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 76402920,
-        "download_count": 126,
+        "download_count": 128,
         "created_at": "2017-03-28T09:26:10Z",
         "updated_at": "2017-03-28T09:26:17Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b01/OpenJDK8_x64_Mac_jdk8u152-b01.tar.gz"
