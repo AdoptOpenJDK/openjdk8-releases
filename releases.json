@@ -59,7 +59,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 11,
+        "download_count": 12,
         "created_at": "2017-05-17T17:03:05Z",
         "updated_at": "2017-05-17T17:03:06Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_aarch64_Linux_jdk8u152-b04.sha256.txt"
@@ -91,7 +91,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 75588501,
-        "download_count": 11,
+        "download_count": 12,
         "created_at": "2017-05-17T17:03:06Z",
         "updated_at": "2017-05-17T17:03:12Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_aarch64_Linux_jdk8u152-b04.tar.gz"
@@ -123,7 +123,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 11,
+        "download_count": 12,
         "created_at": "2017-05-17T17:03:13Z",
         "updated_at": "2017-05-17T17:03:14Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_ppc64le_Linux_jdk8u152-b04.sha256.txt"
@@ -155,7 +155,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 75733499,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2017-05-17T17:03:14Z",
         "updated_at": "2017-05-17T17:03:20Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_ppc64le_Linux_jdk8u152-b04.tar.gz"
@@ -251,7 +251,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 8,
+        "download_count": 9,
         "created_at": "2017-05-17T17:03:27Z",
         "updated_at": "2017-05-17T17:03:28Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_x64_Linux_jdk8u152-b04.sha256.txt"
@@ -283,7 +283,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 78877961,
-        "download_count": 94,
+        "download_count": 95,
         "created_at": "2017-05-17T17:03:28Z",
         "updated_at": "2017-05-17T17:03:34Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_x64_Linux_jdk8u152-b04.tar.gz"
@@ -347,7 +347,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 76418733,
-        "download_count": 47,
+        "download_count": 48,
         "created_at": "2017-05-17T17:03:35Z",
         "updated_at": "2017-05-17T17:03:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_x64_Mac_jdk8u152-b04.tar.gz"
@@ -379,7 +379,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 104,
-        "download_count": 8,
+        "download_count": 9,
         "created_at": "2017-05-17T17:03:42Z",
         "updated_at": "2017-05-17T17:03:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_x64_Win_jdk8u152-b04.sha256.txt"
@@ -577,7 +577,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 75723951,
-        "download_count": 4,
+        "download_count": 5,
         "created_at": "2017-05-15T10:53:22Z",
         "updated_at": "2017-05-15T10:53:28Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b03/OpenJDK8_ppc64le_Linux_jdk8u152-b03.tar.gz"
@@ -609,7 +609,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-05-15T10:53:28Z",
         "updated_at": "2017-05-15T10:53:29Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b03/OpenJDK8_s390x_Linux_jdk8u152-b03.sha256.txt"
@@ -641,7 +641,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 74359020,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2017-05-15T10:53:29Z",
         "updated_at": "2017-05-15T10:53:34Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b03/OpenJDK8_s390x_Linux_jdk8u152-b03.tar.gz"
@@ -737,7 +737,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2017-05-15T10:53:42Z",
         "updated_at": "2017-05-15T10:53:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b03/OpenJDK8_x64_Mac_jdk8u152-b03.sha256.txt"
@@ -769,7 +769,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 76411757,
-        "download_count": 7,
+        "download_count": 8,
         "created_at": "2017-05-15T10:53:42Z",
         "updated_at": "2017-05-15T10:53:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b03/OpenJDK8_x64_Mac_jdk8u152-b03.tar.gz"
@@ -839,7 +839,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2017-04-18T16:33:53Z",
         "updated_at": "2017-04-18T16:33:54Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b02/OpenJDK8_ppc64le_Linux_jdk8u152-b02.sha256.txt"
@@ -999,7 +999,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 78870094,
-        "download_count": 97,
+        "download_count": 98,
         "created_at": "2017-04-18T16:34:08Z",
         "updated_at": "2017-04-18T16:34:14Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b02/OpenJDK8_x64_Linux_jdk8u152-b02.tar.gz"
@@ -1031,7 +1031,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2017-04-18T16:34:15Z",
         "updated_at": "2017-04-18T16:34:15Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b02/OpenJDK8_x64_Mac_jdk8u152-b02.sha256.txt"
@@ -1229,7 +1229,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 78383942,
-        "download_count": 101,
+        "download_count": 102,
         "created_at": "2017-03-28T09:26:04Z",
         "updated_at": "2017-03-28T09:26:09Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b01/OpenJDK8_x64_Linux_jdk8u152-b01.tar.gz"
@@ -1261,7 +1261,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 10,
+        "download_count": 11,
         "created_at": "2017-03-28T09:26:09Z",
         "updated_at": "2017-03-28T09:26:09Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b01/OpenJDK8_x64_Mac_jdk8u152-b01.sha256.txt"
@@ -1293,7 +1293,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 76402920,
-        "download_count": 130,
+        "download_count": 131,
         "created_at": "2017-03-28T09:26:10Z",
         "updated_at": "2017-03-28T09:26:17Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b01/OpenJDK8_x64_Mac_jdk8u152-b01.tar.gz"
