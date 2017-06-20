@@ -161,6 +161,38 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_ppc64le_Linux_jdk8u152-b04.tar.gz"
       },
       {
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4139300",
+        "id": 4139300,
+        "name": "OpenJDK8_ppc64_AIX_jdk8u152-b04.sha256.txt",
+        "label": null,
+        "uploader": {
+          "login": "gdams",
+          "id": 20224954,
+          "avatar_url": "https://avatars1.githubusercontent.com/u/20224954?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/gdams",
+          "html_url": "https://github.com/gdams",
+          "followers_url": "https://api.github.com/users/gdams/followers",
+          "following_url": "https://api.github.com/users/gdams/following{/other_user}",
+          "gists_url": "https://api.github.com/users/gdams/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/gdams/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/gdams/subscriptions",
+          "organizations_url": "https://api.github.com/users/gdams/orgs",
+          "repos_url": "https://api.github.com/users/gdams/repos",
+          "events_url": "https://api.github.com/users/gdams/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/gdams/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "text/plain",
+        "state": "uploaded",
+        "size": 444,
+        "download_count": 0,
+        "created_at": "2017-06-20T10:35:37Z",
+        "updated_at": "2017-06-20T10:36:01Z",
+        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u152-b04/OpenJDK8_ppc64_AIX_jdk8u152-b04.sha256.txt"
+      },
+      {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4139280",
         "id": 4139280,
         "name": "OpenJDK8_ppc64_AIX_jdk8u152-b04.tar.gz",
