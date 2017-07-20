@@ -641,7 +641,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 75735136,
-        "download_count": 133,
+        "download_count": 134,
         "created_at": "2017-07-04T18:46:21Z",
         "updated_at": "2017-07-04T18:46:27Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u162-b00/OpenJDK8_ppc64le_Linux_jdk8u162-b00.tar.gz"
@@ -769,7 +769,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 74376121,
-        "download_count": 60,
+        "download_count": 61,
         "created_at": "2017-07-04T18:46:28Z",
         "updated_at": "2017-07-04T18:46:35Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u162-b00/OpenJDK8_s390x_Linux_jdk8u162-b00.tar.gz"
