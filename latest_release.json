@@ -474,7 +474,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 76549578,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2017-07-19T13:49:37Z",
       "updated_at": "2017-07-19T13:49:43Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u141-b15/OpenJDK8_x64_Win_jdk8u141-b15.zip"
