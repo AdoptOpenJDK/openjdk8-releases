@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/7199245",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/7199245/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/7199245/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/tag/jdk8u144-b01",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/7199245",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/7199245/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/7199245/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/tag/jdk8u144-b01",
   "id": 7199245,
   "tag_name": "jdk8u144-b01",
   "target_commitish": "master",
@@ -32,7 +32,7 @@
   "published_at": "2017-07-27T22:01:53Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437778",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437778",
       "id": 4437778,
       "name": "OpenJDK8_aarch64_Linux_jdk8u144-b01.sha256.txt",
       "label": "",
@@ -61,10 +61,10 @@
       "download_count": 1,
       "created_at": "2017-07-27T22:01:53Z",
       "updated_at": "2017-07-27T22:01:53Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_aarch64_Linux_jdk8u144-b01.sha256.txt"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_aarch64_Linux_jdk8u144-b01.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437780",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437780",
       "id": 4437780,
       "name": "OpenJDK8_aarch64_Linux_jdk8u144-b01.tar.gz",
       "label": "",
@@ -93,10 +93,10 @@
       "download_count": 4,
       "created_at": "2017-07-27T22:01:54Z",
       "updated_at": "2017-07-27T22:02:00Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_aarch64_Linux_jdk8u144-b01.tar.gz"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_aarch64_Linux_jdk8u144-b01.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437788",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437788",
       "id": 4437788,
       "name": "OpenJDK8_ppc64le_Linux_jdk8u144-b01.sha256.txt",
       "label": "",
@@ -125,10 +125,10 @@
       "download_count": 1,
       "created_at": "2017-07-27T22:02:07Z",
       "updated_at": "2017-07-27T22:02:07Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64le_Linux_jdk8u144-b01.sha256.txt"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64le_Linux_jdk8u144-b01.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437789",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437789",
       "id": 4437789,
       "name": "OpenJDK8_ppc64le_Linux_jdk8u144-b01.tar.gz",
       "label": "",
@@ -157,10 +157,10 @@
       "download_count": 10,
       "created_at": "2017-07-27T22:02:07Z",
       "updated_at": "2017-07-27T22:02:13Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64le_Linux_jdk8u144-b01.tar.gz"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64le_Linux_jdk8u144-b01.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437786",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437786",
       "id": 4437786,
       "name": "OpenJDK8_ppc64_AIX_jdk8u144-b01.sha256.txt",
       "label": "",
@@ -189,10 +189,10 @@
       "download_count": 0,
       "created_at": "2017-07-27T22:02:00Z",
       "updated_at": "2017-07-27T22:02:00Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64_AIX_jdk8u144-b01.sha256.txt"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64_AIX_jdk8u144-b01.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437787",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437787",
       "id": 4437787,
       "name": "OpenJDK8_ppc64_AIX_jdk8u144-b01.tar.gz",
       "label": "",
@@ -221,10 +221,10 @@
       "download_count": 37,
       "created_at": "2017-07-27T22:02:00Z",
       "updated_at": "2017-07-27T22:02:07Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64_AIX_jdk8u144-b01.tar.gz"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64_AIX_jdk8u144-b01.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437790",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437790",
       "id": 4437790,
       "name": "OpenJDK8_s390x_Linux_jdk8u144-b01.sha256.txt",
       "label": "",
@@ -253,10 +253,10 @@
       "download_count": 0,
       "created_at": "2017-07-27T22:02:14Z",
       "updated_at": "2017-07-27T22:02:14Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_s390x_Linux_jdk8u144-b01.sha256.txt"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_s390x_Linux_jdk8u144-b01.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437791",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437791",
       "id": 4437791,
       "name": "OpenJDK8_s390x_Linux_jdk8u144-b01.tar.gz",
       "label": "",
@@ -285,10 +285,10 @@
       "download_count": 5,
       "created_at": "2017-07-27T22:02:14Z",
       "updated_at": "2017-07-27T22:02:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_s390x_Linux_jdk8u144-b01.tar.gz"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_s390x_Linux_jdk8u144-b01.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437792",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437792",
       "id": 4437792,
       "name": "OpenJDK8_x64_Linux_jdk8u144-b01.sha256.txt",
       "label": "",
@@ -317,10 +317,10 @@
       "download_count": 0,
       "created_at": "2017-07-27T22:02:21Z",
       "updated_at": "2017-07-27T22:02:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Linux_jdk8u144-b01.sha256.txt"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Linux_jdk8u144-b01.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437793",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437793",
       "id": 4437793,
       "name": "OpenJDK8_x64_Linux_jdk8u144-b01.tar.gz",
       "label": "",
@@ -346,13 +346,13 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 78820148,
-      "download_count": 43,
+      "download_count": 45,
       "created_at": "2017-07-27T22:02:22Z",
       "updated_at": "2017-07-27T22:02:29Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Linux_jdk8u144-b01.tar.gz"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Linux_jdk8u144-b01.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437794",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437794",
       "id": 4437794,
       "name": "OpenJDK8_x64_Mac_jdk8u144-b01.sha256.txt",
       "label": "",
@@ -381,10 +381,10 @@
       "download_count": 1,
       "created_at": "2017-07-27T22:02:30Z",
       "updated_at": "2017-07-27T22:02:30Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.sha256.txt"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437795",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437795",
       "id": 4437795,
       "name": "OpenJDK8_x64_Mac_jdk8u144-b01.tar.gz",
       "label": "",
@@ -413,10 +413,10 @@
       "download_count": 42,
       "created_at": "2017-07-27T22:02:30Z",
       "updated_at": "2017-07-27T22:02:35Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.tar.gz"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437796",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437796",
       "id": 4437796,
       "name": "OpenJDK8_x64_Win_jdk8u144-b01.sha256.txt",
       "label": "",
@@ -445,10 +445,10 @@
       "download_count": 1,
       "created_at": "2017-07-27T22:02:36Z",
       "updated_at": "2017-07-27T22:02:36Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Win_jdk8u144-b01.sha256.txt"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Win_jdk8u144-b01.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/releases/assets/4437797",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437797",
       "id": 4437797,
       "name": "OpenJDK8_x64_Win_jdk8u144-b01.zip",
       "label": "",
@@ -477,10 +477,10 @@
       "download_count": 34,
       "created_at": "2017-07-27T22:02:37Z",
       "updated_at": "2017-07-27T22:02:42Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Win_jdk8u144-b01.zip"
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Win_jdk8u144-b01.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/tarball/jdk8u144-b01",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-releases/zipball/jdk8u144-b01",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/tarball/jdk8u144-b01",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/zipball/jdk8u144-b01",
   "body": "Official Release of jdk8u144-b01"
 }
