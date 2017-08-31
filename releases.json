@@ -353,38 +353,6 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Linux_jdk8u144-b01.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4711792",
-        "id": 4711792,
-        "name": "OpenJDK8_x64_Mac_jdk8u144-b01.dmg",
-        "label": null,
-        "uploader": {
-          "login": "gdams",
-          "id": 20224954,
-          "avatar_url": "https://avatars2.githubusercontent.com/u/20224954?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/gdams",
-          "html_url": "https://github.com/gdams",
-          "followers_url": "https://api.github.com/users/gdams/followers",
-          "following_url": "https://api.github.com/users/gdams/following{/other_user}",
-          "gists_url": "https://api.github.com/users/gdams/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/gdams/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/gdams/subscriptions",
-          "organizations_url": "https://api.github.com/users/gdams/orgs",
-          "repos_url": "https://api.github.com/users/gdams/repos",
-          "events_url": "https://api.github.com/users/gdams/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/gdams/received_events",
-          "type": "User",
-          "site_admin": false
-        },
-        "content_type": "application/x-diskcopy",
-        "state": "uploaded",
-        "size": 80707566,
-        "download_count": 1,
-        "created_at": "2017-08-31T10:37:37Z",
-        "updated_at": "2017-08-31T10:38:11Z",
-        "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.dmg"
-      },
-      {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437794",
         "id": 4437794,
         "name": "OpenJDK8_x64_Mac_jdk8u144-b01.sha256.txt",
