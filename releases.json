@@ -379,7 +379,7 @@
         "content_type": "application/x-diskcopy",
         "state": "uploaded",
         "size": 80707566,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-08-31T10:37:37Z",
         "updated_at": "2017-08-31T10:38:11Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.dmg"
