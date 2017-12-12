@@ -219,7 +219,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 79989518,
-        "download_count": 135,
+        "download_count": 136,
         "created_at": "2017-07-27T22:02:00Z",
         "updated_at": "2017-07-27T22:02:07Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64_AIX_jdk8u144-b01.tar.gz"
@@ -1351,7 +1351,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 12,
+        "download_count": 14,
         "created_at": "2017-07-04T18:46:35Z",
         "updated_at": "2017-07-04T18:46:35Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u162-b00/OpenJDK8_x64_Linux_jdk8u162-b00.sha256.txt"
