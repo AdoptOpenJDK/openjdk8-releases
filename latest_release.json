@@ -282,7 +282,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 74368038,
-      "download_count": 112,
+      "download_count": 113,
       "created_at": "2017-07-27T22:02:14Z",
       "updated_at": "2017-07-27T22:02:21Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_s390x_Linux_jdk8u144-b01.tar.gz"
@@ -442,7 +442,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 76419440,
-      "download_count": 236,
+      "download_count": 237,
       "created_at": "2017-07-27T22:02:30Z",
       "updated_at": "2017-07-27T22:02:35Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.tar.gz"
