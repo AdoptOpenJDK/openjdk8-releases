@@ -1,7 +1,7 @@
 {
   "jdk8u144-b01": {
-    "X64_MacOS": "true",
     "X64_Mac": "true",
+    "X64_MacOS": "true",
     "X64_MacOSX": "true"
   }
 }
