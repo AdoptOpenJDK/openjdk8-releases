@@ -1933,7 +1933,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 76546426,
-        "download_count": 160,
+        "download_count": 161,
         "created_at": "2017-05-17T17:03:42Z",
         "updated_at": "2017-05-17T17:03:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u152-b04/OpenJDK8_x64_Win_jdk8u152-b04.zip"
