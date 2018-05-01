@@ -1869,7 +1869,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 76418733,
-        "download_count": 75,
+        "download_count": 76,
         "created_at": "2017-05-17T17:03:35Z",
         "updated_at": "2017-05-17T17:03:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u152-b04/OpenJDK8_x64_Mac_jdk8u152-b04.tar.gz"
