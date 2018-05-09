@@ -58,7 +58,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 109,
-      "download_count": 861,
+      "download_count": 862,
       "created_at": "2017-07-27T22:01:53Z",
       "updated_at": "2017-07-27T22:01:53Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_aarch64_Linux_jdk8u144-b01.sha256.txt"
@@ -122,7 +122,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 109,
-      "download_count": 851,
+      "download_count": 852,
       "created_at": "2017-07-27T22:02:07Z",
       "updated_at": "2017-07-27T22:02:07Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64le_Linux_jdk8u144-b01.sha256.txt"
@@ -154,7 +154,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 75728813,
-      "download_count": 377,
+      "download_count": 378,
       "created_at": "2017-07-27T22:02:07Z",
       "updated_at": "2017-07-27T22:02:13Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64le_Linux_jdk8u144-b01.tar.gz"
@@ -250,7 +250,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 107,
-      "download_count": 848,
+      "download_count": 849,
       "created_at": "2017-07-27T22:02:14Z",
       "updated_at": "2017-07-27T22:02:14Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_s390x_Linux_jdk8u144-b01.sha256.txt"
@@ -314,7 +314,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 105,
-      "download_count": 923,
+      "download_count": 924,
       "created_at": "2017-07-27T22:02:21Z",
       "updated_at": "2017-07-27T22:02:21Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Linux_jdk8u144-b01.sha256.txt"
@@ -378,7 +378,7 @@
       "content_type": "application/x-diskcopy",
       "state": "uploaded",
       "size": 80724635,
-      "download_count": 204,
+      "download_count": 205,
       "created_at": "2017-09-02T20:04:45Z",
       "updated_at": "2017-09-02T20:07:06Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.dmg"
