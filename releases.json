@@ -5,6 +5,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/11079659/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/tag/jdk8u172-b11",
     "id": 11079659,
+    "node_id": "MDc6UmVsZWFzZTExMDc5NjU5",
     "tag_name": "jdk8u172-b11",
     "target_commitish": "master",
     "name": "jdk8u172-b11",
@@ -12,6 +13,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -35,11 +37,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7294269",
         "id": 7294269,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTQyNjk=",
         "name": "OpenJDK8_aarch64_Linux_jdk8u172-b11.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -67,11 +71,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7294270",
         "id": 7294270,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTQyNzA=",
         "name": "OpenJDK8_aarch64_Linux_jdk8u172-b11.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -99,11 +105,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232091",
         "id": 7232091,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwOTE=",
         "name": "OpenJDK8_ppc64le_Linux_jdk8u172-b11.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -131,11 +139,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232092",
         "id": 7232092,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwOTI=",
         "name": "OpenJDK8_ppc64le_Linux_jdk8u172-b11.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -163,11 +173,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232089",
         "id": 7232089,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwODk=",
         "name": "OpenJDK8_ppc64_AIX_jdk8u172-b11.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -195,11 +207,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232090",
         "id": 7232090,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwOTA=",
         "name": "OpenJDK8_ppc64_AIX_jdk8u172-b11.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -227,11 +241,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232095",
         "id": 7232095,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwOTU=",
         "name": "OpenJDK8_s390x_Linux_jdk8u172-b11.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -259,11 +275,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232096",
         "id": 7232096,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwOTY=",
         "name": "OpenJDK8_s390x_Linux_jdk8u172-b11.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -291,11 +309,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232097",
         "id": 7232097,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwOTc=",
         "name": "OpenJDK8_x64_Linux_jdk8u172-b11.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -323,11 +343,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232098",
         "id": 7232098,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIwOTg=",
         "name": "OpenJDK8_x64_Linux_jdk8u172-b11.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -355,11 +377,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232103",
         "id": 7232103,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIxMDM=",
         "name": "OpenJDK8_x64_Mac_jdk8u172-b11.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -387,11 +411,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232104",
         "id": 7232104,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIxMDQ=",
         "name": "OpenJDK8_x64_Mac_jdk8u172-b11.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -419,11 +445,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232110",
         "id": 7232110,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIxMTA=",
         "name": "OpenJDK8_x64_Win_jdk8u172-b11.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -451,11 +479,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/7232111",
         "id": 7232111,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMzIxMTE=",
         "name": "OpenJDK8_x64_Win_jdk8u172-b11.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
