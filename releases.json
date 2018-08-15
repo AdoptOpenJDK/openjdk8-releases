@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 110,
-        "download_count": 1,
+        "download_count": 4,
         "created_at": "2018-08-15T09:53:18Z",
         "updated_at": "2018-08-15T09:53:18Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk-10.0.2%2B13_openj9-0.9.0/OpenJDK8_ppc64le_Linux_jdk-10.0.2.13_openj9-0.9.0.sha256.txt"
@@ -97,7 +97,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 213082471,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2018-08-15T09:53:18Z",
         "updated_at": "2018-08-15T09:53:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk-10.0.2%2B13_openj9-0.9.0/OpenJDK8_ppc64le_Linux_jdk-10.0.2.13_openj9-0.9.0.tar.gz"
@@ -199,7 +199,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 108,
-        "download_count": 1,
+        "download_count": 4,
         "created_at": "2018-08-15T09:53:48Z",
         "updated_at": "2018-08-15T09:53:49Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk-10.0.2%2B13_openj9-0.9.0/OpenJDK8_s390x_Linux_jdk-10.0.2.13_openj9-0.9.0.sha256.txt"
@@ -233,7 +233,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 216997327,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2018-08-15T09:53:49Z",
         "updated_at": "2018-08-15T09:54:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk-10.0.2%2B13_openj9-0.9.0/OpenJDK8_s390x_Linux_jdk-10.0.2.13_openj9-0.9.0.tar.gz"
@@ -267,7 +267,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 106,
-        "download_count": 1,
+        "download_count": 4,
         "created_at": "2018-08-15T09:54:03Z",
         "updated_at": "2018-08-15T09:54:03Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk-10.0.2%2B13_openj9-0.9.0/OpenJDK8_x64_Linux_jdk-10.0.2.13_openj9-0.9.0.sha256.txt"
@@ -301,7 +301,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 214736882,
-        "download_count": 2,
+        "download_count": 4,
         "created_at": "2018-08-15T09:54:03Z",
         "updated_at": "2018-08-15T09:54:15Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk-10.0.2%2B13_openj9-0.9.0/OpenJDK8_x64_Linux_jdk-10.0.2.13_openj9-0.9.0.tar.gz"
@@ -369,7 +369,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 218469236,
-        "download_count": 8,
+        "download_count": 9,
         "created_at": "2018-08-15T09:54:16Z",
         "updated_at": "2018-08-15T09:54:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk-10.0.2%2B13_openj9-0.9.0/OpenJDK8_x64_Windows_jdk-10.0.2.13_openj9-0.9.0.zip"
@@ -443,7 +443,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 832,
+        "download_count": 835,
         "created_at": "2018-05-24T20:43:38Z",
         "updated_at": "2018-05-24T20:43:39Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_aarch64_Linux_jdk8u172-b11.sha256.txt"
@@ -477,7 +477,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 79437532,
-        "download_count": 263,
+        "download_count": 265,
         "created_at": "2018-05-24T20:43:39Z",
         "updated_at": "2018-05-24T20:43:46Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_aarch64_Linux_jdk8u172-b11.tar.gz"
@@ -749,7 +749,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 78346244,
-        "download_count": 1964,
+        "download_count": 1965,
         "created_at": "2018-05-19T11:14:48Z",
         "updated_at": "2018-05-19T11:14:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Linux_jdk8u172-b11.tar.gz"
