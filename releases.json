@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 1023,
+        "download_count": 1026,
         "created_at": "2018-05-24T20:43:38Z",
         "updated_at": "2018-05-24T20:43:39Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_aarch64_Linux_jdk8u172-b11.sha256.txt"
@@ -97,7 +97,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 79437532,
-        "download_count": 310,
+        "download_count": 312,
         "created_at": "2018-05-24T20:43:39Z",
         "updated_at": "2018-05-24T20:43:46Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_aarch64_Linux_jdk8u172-b11.tar.gz"
@@ -131,7 +131,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 1017,
+        "download_count": 1020,
         "created_at": "2018-05-19T11:14:32Z",
         "updated_at": "2018-05-19T11:14:32Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_ppc64le_Linux_jdk8u172-b11.sha256.txt"
@@ -165,7 +165,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 75490162,
-        "download_count": 250,
+        "download_count": 252,
         "created_at": "2018-05-19T11:14:32Z",
         "updated_at": "2018-05-19T11:14:40Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_ppc64le_Linux_jdk8u172-b11.tar.gz"
@@ -267,7 +267,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 1012,
+        "download_count": 1015,
         "created_at": "2018-05-19T11:14:40Z",
         "updated_at": "2018-05-19T11:14:40Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_s390x_Linux_jdk8u172-b11.sha256.txt"
@@ -301,7 +301,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 74602156,
-        "download_count": 247,
+        "download_count": 249,
         "created_at": "2018-05-19T11:14:40Z",
         "updated_at": "2018-05-19T11:14:47Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_s390x_Linux_jdk8u172-b11.tar.gz"
@@ -335,7 +335,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 1121,
+        "download_count": 1124,
         "created_at": "2018-05-19T11:14:48Z",
         "updated_at": "2018-05-19T11:14:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Linux_jdk8u172-b11.sha256.txt"
@@ -369,7 +369,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 78346244,
-        "download_count": 7846,
+        "download_count": 7852,
         "created_at": "2018-05-19T11:14:48Z",
         "updated_at": "2018-05-19T11:14:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Linux_jdk8u172-b11.tar.gz"
