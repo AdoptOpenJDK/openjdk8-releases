@@ -368,7 +368,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 78346244,
-      "download_count": 9014,
+      "download_count": 9019,
       "created_at": "2018-05-19T11:14:48Z",
       "updated_at": "2018-05-19T11:14:59Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Linux_jdk8u172-b11.tar.gz"
@@ -436,7 +436,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 77103599,
-      "download_count": 3527,
+      "download_count": 3529,
       "created_at": "2018-05-19T11:15:00Z",
       "updated_at": "2018-05-19T11:15:09Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Mac_jdk8u172-b11.tar.gz"
