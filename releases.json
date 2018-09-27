@@ -335,7 +335,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 1446,
+        "download_count": 1447,
         "created_at": "2018-05-19T11:14:48Z",
         "updated_at": "2018-05-19T11:14:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Linux_jdk8u172-b11.sha256.txt"
@@ -369,7 +369,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 78346244,
-        "download_count": 401701,
+        "download_count": 401849,
         "created_at": "2018-05-19T11:14:48Z",
         "updated_at": "2018-05-19T11:14:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Linux_jdk8u172-b11.tar.gz"
@@ -403,7 +403,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 66,
+        "download_count": 67,
         "created_at": "2018-05-19T11:14:59Z",
         "updated_at": "2018-05-19T11:15:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Mac_jdk8u172-b11.sha256.txt"
@@ -437,7 +437,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 77103599,
-        "download_count": 5761,
+        "download_count": 5762,
         "created_at": "2018-05-19T11:15:00Z",
         "updated_at": "2018-05-19T11:15:09Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Mac_jdk8u172-b11.tar.gz"
@@ -471,7 +471,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 100,
-        "download_count": 197,
+        "download_count": 198,
         "created_at": "2018-05-19T11:15:09Z",
         "updated_at": "2018-05-19T11:15:09Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Win_jdk8u172-b11.sha256.txt"
@@ -505,7 +505,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 77066394,
-        "download_count": 21377,
+        "download_count": 21396,
         "created_at": "2018-05-19T11:15:10Z",
         "updated_at": "2018-05-19T11:15:19Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u172-b11/OpenJDK8_x64_Win_jdk8u172-b11.zip"
