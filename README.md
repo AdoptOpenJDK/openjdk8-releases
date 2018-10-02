@@ -14,5 +14,5 @@ Find all the prebuilt AdoptOpenJDK OpenJDK release binaries [here](https://githu
 
 ## How to get involved
 
-Join the mailing list at: http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
+Join the mailing list at: http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss  
 Join the Slack at: https://www.adoptopenjdk.net/slack.html
